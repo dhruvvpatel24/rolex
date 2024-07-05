@@ -87,6 +87,7 @@
 
 .para p{
     font-size: 20px;
+    
 }
 
 .container{
@@ -152,6 +153,251 @@
 .list-1 a{
     text-decoration: none;
     color: white;
+}
+
+.img-1 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.text-1{
+    position: relative;
+    color: white;
+    margin-top: 460px;
+    margin-left: 130px;
+
+}
+
+.text-1 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-2 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;  
+    margin-top: 85px;
+}
+
+.text-2{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-3 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;  
+    margin-top: 81px;
+}
+
+.text-3{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-3 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-4 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 76px;
+}
+
+.text-4{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-4 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-5 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 71px;
+}
+
+.text-5{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-5 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-6 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 67px;
+}
+
+.text-6{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-6 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-7 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 62px;
+}
+
+.text-7{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-7 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-8 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 58px;
+}
+
+.text-8{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-8 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-9 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 54px;
+}
+
+.text-9{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-9 a{
+    text-decoration: none;
+    color: white;
+}
+
+.img-10 img{
+    height: 600px;
+    width: 100%;
+    position: absolute;
+    margin-top: 51px;
+}
+
+.text-10{
+    position: relative;
+    color: white;
+    margin-top: 530px;
+    margin-left: 130px;
+}
+
+.text-10 a{
+    text-decoration: none;
+    color: white;
+}
+
+.box{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.first a{
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.first span{
+    color: #075d08;
+}
+
+
+.second{
+    display: flex;
+    margin-left: 152px;
+    margin-top: 80px
+}
+
+.second span a{
+    margin-left: 40px;
+    color: #075d08;
+    text-decoration: none;
+    
+}
+
+.second h4{
+    font-size: 20px;
+}
+
+.main-container a{
+    text-decoration: none;
+    color: black;
+}
+
+.main-container li{
+    list-style: none;
+}
+
+.main-container {
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.rolex img{
+    height: 100px;
+    width: 150px;
 }
 
 
